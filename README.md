@@ -3,6 +3,10 @@ Description
 
 Collection of userscripts to be used with GreaseMonkey, GreaseKit or my current favorite Safari extension NinjaKit.
 
+## gcextensions.user.js
+
+Enhances the geocaching.com website by adding often needed Links to the main menu.
+
 Installation
 ===
 
