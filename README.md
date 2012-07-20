@@ -16,12 +16,13 @@ Enhances the coderwall website:
 
 ## gcextensions.user.js
 
-Enhances the geocaching.com website by adding often needed Links to the main menu.
+Enhances the geocaching.com website:
+* adds often needed links to the main menu.
 
 Installation
 ===
 
-Open the files. You will be prompted to install them.
+Click on the files. You will be prompted automatically to install them.
 
 Author
 ===
