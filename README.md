@@ -19,6 +19,19 @@ Enhances the coderwall website:
 Enhances the geocaching.com website:
 * adds often needed links to the main menu.
 
+## gclogextension.user.js
+
+Enhances the geocaching.com logging page:
+* counts and stores number of caches and FTF
+* adds buttons to insert next TFTC / FTF easily
+* adds smart buttons to insert smileys
+
+This is a grown version of the userscript that has some TODOs:
+* Use number of caches displayed on page instead of stored version
+* Refactor and clean up
+* or rewrite
+* or better: add to gcextensions.user.js
+
 ## getpocket.user.js
 
 Enhances the getpocket website:
