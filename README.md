@@ -19,6 +19,11 @@ Enhances the coderwall website:
 Enhances the geocaching.com website:
 * adds often needed links to the main menu.
 
+## getpocket.user.js
+
+Enhances the getpocket website:
+* opens _tags_ on startup
+
 Installation
 ===
 
