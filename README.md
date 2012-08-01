@@ -18,6 +18,7 @@ Enhances the coderwall website:
 
 Enhances the geocaching.com website:
 * adds often needed links to the main menu.
+* converts downtime announcements to local time
 
 ## gclogextension.user.js
 
