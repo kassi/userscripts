@@ -66,7 +66,7 @@ function tweakCalendar() {
   function onSelectClick(event) {
     var v = this.options[this.selectedIndex].value;
     var script = document.createElement("script");
-    script.innerHTML = "__doPostBack('ctl00$ContentBody$MyCalendar','" + v + "');"
+    script.innerHTML = "__doPostBack('ctl00$ContentBody$MyCalendar','V" + v + "');"
     document.body.appendChild(script);
   }
   var calendar = document.getElementById("ctl00_ContentBody_MyCalendar");
