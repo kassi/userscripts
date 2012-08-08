@@ -438,7 +438,7 @@ function parseIconList(icondiv)
         "---",
         ":angry:$http://img.groundspeak.com/forums/emoticons/signal/mad.gif",
         ":back:$http://img.groundspeak.com/forums/emoticons/signal/back.gif",
-        ":bad:$http://img.groundspeak.com/forums/emoticons/signal/bad_boy_a.gif",
+        ":bad:$http://img.groundspeak.com/forums/emoticons/signal/bad_boy.gif",
         ":cute:$http://img.groundspeak.com/forums/emoticons/signal/cute.gif",
         ":F:$http://img.groundspeak.com/forums/emoticons/signal/smile.gif",
         ":grin:$http://img.groundspeak.com/forums/emoticons/signal/big_smile.gif",
