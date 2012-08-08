@@ -7,7 +7,7 @@
 (function () {
 	GM_log("GC Extensions started");
 
-	if (document.URL == "http://www.geocaching.com/my/" || document.URL == "http://www.geocaching.com/my/default.aspx") {
+	if (document.URL.substr(0,29) == "http://www.geocaching.com/my/") {
 		addMenuItems();
 	}
 	if (document.URL == "http://www.geocaching.com/my/geocaches.aspx") {
