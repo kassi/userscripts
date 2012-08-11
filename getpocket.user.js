@@ -30,6 +30,8 @@ function use_jQuery(j) {
 /** Directly opens the 'tags' section on load */
 function openTags() {
   use_jQuery(function ($) {
-    $("[title=Tags]").first().click()
+    $(document).ready(function() {
+      $("[title=Tags]").first().click();
+    })
   });
 }
