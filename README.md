@@ -1,47 +1,24 @@
 Description
 ===
 
-Collection of userscripts to be used with GreaseMonkey, GreaseKit or my current favorite Safari extension NinjaKit.
+Collection of userscripts to be used with GreaseMonkey, GreaseKit or Tampermonkey.
 
-## coderwall.js
-
-Enhances the coderwall website:
-* adds an accesskey to the pro tip search.
-  To be consistent to OSX, it uses **SPACE** as the access key.
-  While `cmd + SPACE` opens Spotlight,
-  `alt + cmd + SPACE` opens System File Search and
-  `alt + SPACE` opens Dash search,
-  pressing `ctrl + alt + SPACE` now opens the search on this page.
-* additionally you can close the search dialog with `ESC` now.
-
-## gcextensions.user.js
+## geocaching-extensions.user.js
 
 Enhances the geocaching.com website:
+* enhances the logging features
 * adds often needed links to the main menu.
 * converts downtime announcements to local time
-
-## gclogextension.user.js
-
-Enhances the geocaching.com logging page:
-* counts and stores number of caches and FTF
-* adds buttons to insert next TFTC / FTF easily
-* adds smart buttons to insert smileys
-
-This is a grown version of the userscript that has some TODOs:
-* Use number of caches displayed on page instead of stored version
-* Refactor and clean up
-* or rewrite
-* or better: add to gcextensions.user.js
-
-## getpocket.user.js
-
-Enhances the getpocket website:
-* opens _tags_ on startup
 
 Installation
 ===
 
 Click on the files. You will be prompted automatically to install them.
+
+Other Userscripts
+===
+* https://greasyfork.org/en/scripts/9713-geocaching-com-project-gc
+* https://openuserjs.org/scripts/jscher2000/Google_Hit_Hider_by_Domain_%28Search_Filter_Block_Sites%29
 
 Author
 ===
